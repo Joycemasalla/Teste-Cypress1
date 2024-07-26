@@ -1,0 +1,4 @@
+CONFIGURAÇÃO CYPRESS
+npm init --yes
+npm install cypress
+npx cypress open
